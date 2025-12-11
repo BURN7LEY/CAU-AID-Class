@@ -59,6 +59,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## Author
+### Author
 
 Developed by [황석현](https://github.com/BURN7LEY)
